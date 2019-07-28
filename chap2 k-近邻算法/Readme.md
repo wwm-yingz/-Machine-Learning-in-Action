@@ -1,0 +1,3 @@
+kNN.py有所有代码
+datingTestSet2.txt是书本上约会问题的样本库
+testDigits与trainingDigites是数字识别问题的测试样本和训练样本
